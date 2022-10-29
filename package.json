@@ -1,16 +1,16 @@
 {
-"name": "mobilejoker388",
-"theme": "mobile joker388",
-"version": "7.6.8",
-"description": "mobile joker388 ทางเข้าเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"mobile joker388",
-"mobile joker388 เครดิตฟรี",
-"mobile joker388 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mobilejoker388",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mobilejoker388",
+  "theme": "mobile joker388",
+  "version": "7.7.0",
+  "description": "mobile joker388 ทางเข้าเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "mobile joker388",
+    "mobile joker388 เครดิตฟรี",
+    "mobile joker388 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mobilejoker388",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
